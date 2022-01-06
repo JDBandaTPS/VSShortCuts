@@ -6,7 +6,7 @@
         Ojear definición   ⌥ F12
         Ir a la definición F12
 
-        Ojear definición   Alt + F12
+        Ojear definición   ctrl con alt no jala
         Ir a la definición F12
 */
 

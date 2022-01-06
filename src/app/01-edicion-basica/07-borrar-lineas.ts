@@ -6,7 +6,7 @@
         ⇧ ⌘ K
         Ctrl + Shift + K
 
-    PRO:
+    PRO: Esto esta muy OP
         Seleccionar todas las ocurrencias de la selección
         ⇧ ⌘ L
         Ctrl + Shift + L
